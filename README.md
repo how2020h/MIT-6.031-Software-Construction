@@ -1,1 +1,4 @@
 # MIT-6.031-Software-Construction
+
+- Course website(2016): https://ocw.mit.edu/courses/6-005-software-construction-spring-2016/pages/syllabus/
+- Course Description: "Software Construction introduces fundamental principles and techniques of software development, i.e., how to write software that is safe from bugs, easy to understand, and ready for change. Topics include specifications and invariants; testing, test-case generation, and coverage; abstract data types and representation independence; design patterns for object-oriented programming; concurrent programming, including message passing and shared concurrency, and defending against races and deadlock; and functional programming with immutable data and higher-order functions. Includes weekly programming exercises and larger group programming projects."
